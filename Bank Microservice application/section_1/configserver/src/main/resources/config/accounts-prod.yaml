@@ -1,5 +1,5 @@
 build:
-  version: "25.0"
+  version: "26.0"
 
 accounts:
   message: "{cipher}32477e5ed04016b28176dc78eb1a9b39eb2bbb8bf6939172f3d40165dade7eb5c616e2e5b51c187508ee2c90c6d669448171cd18d17ce4c0df78b686475cb32de1d49f5865a63ba55f8917d2282ac93e"
